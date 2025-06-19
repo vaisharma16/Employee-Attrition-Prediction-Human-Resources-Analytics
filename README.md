@@ -1,9 +1,5 @@
 # 👨‍💼 Employee Attrition Prediction – Human Resources Analytics
 
-**Udemy:** *Solve 6 Real Business Problems: Build Robust AI, DL, and NLP Models*  
-**Instructor:** Dr. Ryan Ahmed  
-**Enhanced by:** *Vaibhav Sharma* (Data Science Enthusiast)
-
 ---
 
 ## 🚀 Business Objective
@@ -117,6 +113,7 @@ X_train_sm, y_train_sm = smote.fit_resample(X_train, y_train)
 - SMOTE: `imbalanced-learn`
 - Models: `sklearn`, `xgboost`, `lightgbm`, `catboost`, `tensorflow`
 
+**Enhanced by:** *Vaibhav Sharma* (Data Science Enthusiast)
 ---
 
 **Maintained by:** [Vaibhav Sharma](https://github.com/vaisharma16)  
